@@ -1,6 +1,6 @@
-# Popup
+# Encryption PopUp
 
-Popup project is a demo with custom popover window appearing from the icon in the Mac OS X status bar.
+An implementation of the encryption algorithm embedded in a popup window for MacOS X.
 
 # License
 
